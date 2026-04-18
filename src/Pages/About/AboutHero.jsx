@@ -5,7 +5,7 @@ import profileImg from "../../../public/Images/own.png";
 
 const AboutHero = () => {
   return (
-    <section className="py-16 md:min-h-screen flex items-center px-6 relative overflow-hidden">
+    <section className="py-20 md:min-h-screen flex items-center px-6 relative overflow-hidden">
 
       {/* floating icons (hide on small) */}
       <motion.div
